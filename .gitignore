@@ -1,0 +1,14 @@
+# Node and build artifacts
+**/node_modules/
+**/dist/
+
+# Secrets and credentials
+*.env
+*.pem
+
+# Editor & OS files
+.vscode/
+.idea/
+*.log
+.DS_Store
+Thumbs.db
