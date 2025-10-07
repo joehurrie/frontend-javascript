@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log(`${"John".charAt(0)}. Doe`);const o=new class{constructor({firstName:o,lastName:s}){this.firstName=o,this.lastName=s}workOnHomework(){return"Currently working"}displayName(){return this.firstName}}({firstName:"Amina",lastName:"Kariuki"});console.log(o.displayName()),console.log(o.workOnHomework())})();
